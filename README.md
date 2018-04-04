@@ -4,16 +4,21 @@
 
 The running order for this block's katas is: 
 
-1. subArrSum
-2. romanNumeralEncoder
-3. vowelShift
-4. rgbaModifier
-5. findPartner
-6. findMostRepeated
-7. fillSquare
-8. needleInHaystack
-9. binarySearch
-10. parseHexInt
+1. simplifyDirections
+2. justifyLine
+3. csvParser
+4. multiplicationTable
+5. wrongWayCow
+6. getSubSquare
+7. crackCode
+8. checkDiagonalWinner
+9. findConnectFourWinner
+10. connectFourGame
+11. calculateBinaryScores
+12. rotateMatrix
+13. runLengthEncoder
+14. md5Hashing
+15. md5HashingAdvanced
 
 
 ## Instructions

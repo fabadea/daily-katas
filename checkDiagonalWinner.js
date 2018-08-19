@@ -1,6 +1,6 @@
 // Please do not change the name of this function
-function checkDiagonalWinner (str) {
+const checkDiagonalWinner = (board) => {
   // Your code here
-};
+}
 
-module.exports = {checkDiagonalWinner};
+module.exports = { checkDiagonalWinner }

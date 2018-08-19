@@ -1,6 +1,6 @@
 // Please do not change the name of this function
-function getSubSquare (str) {
+const getSubSquare = (matrix, xStartIndex, yStartIndex) => {
   // Your code here
-};
+}
 
-module.exports = {getSubSquare};
+module.exports = { getSubSquare }

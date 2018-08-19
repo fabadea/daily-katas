@@ -1,6 +1,6 @@
 // Please do not change the name of this function
-function simplifyDirections (str) {
+const simplifyDirections = (directions) => {
   // Your code here
-};
+}
 
-module.exports = {simplifyDirections};
+module.exports = { simplifyDirections }

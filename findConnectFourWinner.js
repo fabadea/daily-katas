@@ -1,6 +1,6 @@
 // Please do not change the name of this function
-function findConnectFourWinner (str) {
+const findConnectFourWinner = (board) => {
   // Your code here
-};
+}
 
-module.exports = {findConnectFourWinner};
+module.exports = { findConnectFourWinner }

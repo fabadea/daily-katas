@@ -1,6 +1,6 @@
 // Please do not change the name of this function
-function md5Hashing (str) {
+const md5Hashing = (doorId) => {
   // Your code here
-};
+}
 
-module.exports = {md5Hashing};
+module.exports = { md5Hashing }

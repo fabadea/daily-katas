@@ -1,6 +1,6 @@
 // Please do not change the name of this function
-function csvParser (str) {
+const csvParser = (csvString) => {
   // Your code here
-};
+}
 
-module.exports = {csvParser};
+module.exports = { csvParser }

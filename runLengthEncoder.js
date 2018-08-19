@@ -1,6 +1,6 @@
 // Please do not change the name of this function
-function runLengthEncoder (str) {
+const runLengthEncoder = (arr) => {
   // Your code here
-};
+}
 
-module.exports = {runLengthEncoder};
+module.exports = { runLengthEncoder }

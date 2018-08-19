@@ -1,6 +1,6 @@
 // Please do not change the name of this function
-function multiplicationTable (str) {
+const multiplicationTable = (num) => {
   // Your code here
-};
+}
 
-module.exports = {multiplicationTable};
+module.exports = { multiplicationTable }

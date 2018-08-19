@@ -1,10 +1,7 @@
-let path = require('path');
-let expect = require('chai').expect;
-let {findConnectFourWinner} = require('../findConnectFourWinner');
+const { findConnectFourWinner } = require('../findConnectFourWinner')
 
 describe('findConnectFourWinner()', () => {
-  'use strict';
   it('', () => {
-
-  });
-});
+    // first test here
+  })
+})

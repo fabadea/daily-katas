@@ -1,10 +1,7 @@
-let path = require('path');
-let expect = require('chai').expect;
-let {runLengthEncoder} = require('../runLengthEncoder');
+const { runLengthEncoder } = require('../runLengthEncoder')
 
 describe('runLengthEncoder()', () => {
-  'use strict';
   it('', () => {
-
-  });
-});
+    // first test here
+  })
+})

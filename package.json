@@ -4,6 +4,7 @@
   "description": "katas",
   "main": "index.js",
   "scripts": {
+    "precommit": "jest && eslint .",
     "test": "jest --watch"
   },
   "repository": {

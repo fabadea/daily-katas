@@ -1,6 +1,4 @@
-// Please do not change the name of this function
-function connectFourGame (str) {
-  // Your code here
-};
+// Please do not change the name of this class
+class ConnectFourGame {}
 
-module.exports = {connectFourGame};
+module.exports = { ConnectFourGame }
